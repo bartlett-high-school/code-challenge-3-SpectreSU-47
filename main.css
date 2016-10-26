@@ -1,1 +1,9 @@
 /* Put your css here for your table and page styling */
+table {
+  background-color: purple;
+}
+
+td {
+  color: white;
+  
+  ]
